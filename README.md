@@ -2,10 +2,10 @@
 Deep Learning project using Artificial Neural Networks (ANN) to solve both regression and classification tasks.
 
 ## Dataset
-- Source: power plant Dataset for Regression
-- Shape: 9568 rows x 5 columns
+- Source: kaggle - power plant Dataset for Regression
+- Shape:9568 rows x 5 columns
 
-- Source: Date Fruit Dataset for Classification
+- Source: Kaggle - Date Fruit Dataset for Classification
 - Shape: 898 rows x 35 columns
 
 ## Technologies Used
